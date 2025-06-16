@@ -1,1 +1,1 @@
-# -weetPulse-A-Sentiment-Analysis-Pipeline-with-MongoDB-PostgreSQL
+# -TweetPulse-A-Sentiment-Analysis-Pipeline-with-MongoDB-PostgreSQL
